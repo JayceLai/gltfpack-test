@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "1b975f9a-5e84-47ba-9e36-5855ae7ea3c1",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "1b975f9a-5e84-47ba-9e36-5855ae7ea3c1@6c48a",
+      "displayName": "equipment_M_baseColor",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1b975f9a-5e84-47ba-9e36-5855ae7ea3c1"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "1b975f9a-5e84-47ba-9e36-5855ae7ea3c1@6c48a"
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "ver": "1.3.19",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303",
+  "files": [],
+  "subMetas": {
+    "50743": {
+      "importer": "texture",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@50743",
+      "displayName": "",
+      "id": "50743",
+      "name": "UnnamedTexture-5.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/armoured_maiden_3d_preview_for_gmod/textures/face_M_baseColor.png"
+      }
+    },
+    "59875": {
+      "importer": "gltf-material",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@59875",
+      "displayName": "",
+      "id": "59875",
+      "name": "hair_M.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "82371": {
+      "importer": "gltf-mesh",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@82371",
+      "displayName": "",
+      "id": "82371",
+      "name": "UnnamedMesh-1.mesh",
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "057cb": {
+      "importer": "gltf-mesh",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@057cb",
+      "displayName": "",
+      "id": "057cb",
+      "name": "UnnamedMesh-0.mesh",
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "d114a": {
+      "importer": "gltf-mesh",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@d114a",
+      "displayName": "",
+      "id": "d114a",
+      "name": "UnnamedMesh-2.mesh",
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "0ae4f": {
+      "importer": "gltf-mesh",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@0ae4f",
+      "displayName": "",
+      "id": "0ae4f",
+      "name": "UnnamedMesh-3.mesh",
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "28dc9": {
+      "importer": "gltf-mesh",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@28dc9",
+      "displayName": "",
+      "id": "28dc9",
+      "name": "UnnamedMesh-4.mesh",
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "3585a": {
+      "importer": "gltf-mesh",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@3585a",
+      "displayName": "",
+      "id": "3585a",
+      "name": "UnnamedMesh-5.mesh",
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "230b5": {
+      "importer": "gltf-mesh",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@230b5",
+      "displayName": "",
+      "id": "230b5",
+      "name": "UnnamedMesh-6.mesh",
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 87
+      }
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/armoured_maiden_3d_preview_for_gmod/textures/sword_M_cube_baseColor.png"
+      }
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/armoured_maiden_3d_preview_for_gmod/textures/hair_M_baseColor.png"
+      }
+    },
+    "0089c": {
+      "importer": "texture",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@0089c",
+      "displayName": "",
+      "id": "0089c",
+      "name": "UnnamedTexture-2.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/armoured_maiden_3d_preview_for_gmod/textures/pistol_M_cube_baseColor.png"
+      }
+    },
+    "9b633": {
+      "importer": "texture",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@9b633",
+      "displayName": "",
+      "id": "9b633",
+      "name": "UnnamedTexture-3.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/armoured_maiden_3d_preview_for_gmod/textures/body_M_baseColor.png"
+      }
+    },
+    "9b782": {
+      "importer": "texture",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@9b782",
+      "displayName": "",
+      "id": "9b782",
+      "name": "UnnamedTexture-4.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/armoured_maiden_3d_preview_for_gmod/textures/equipment_M_baseColor.png"
+      }
+    },
+    "69e3a": {
+      "importer": "gltf-material",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@69e3a",
+      "displayName": "",
+      "id": "69e3a",
+      "name": "sword_M_cube.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "caf7e": {
+      "importer": "gltf-material",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@caf7e",
+      "displayName": "",
+      "id": "caf7e",
+      "name": "pistol_M_cube.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "f63ea": {
+      "importer": "gltf-material",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@f63ea",
+      "displayName": "",
+      "id": "f63ea",
+      "name": "body_M.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "f3c97": {
+      "importer": "gltf-material",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@f3c97",
+      "displayName": "",
+      "id": "f3c97",
+      "name": "equipment_M.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "d4dc5": {
+      "importer": "gltf-material",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@d4dc5",
+      "displayName": "",
+      "id": "d4dc5",
+      "name": "face_M.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "7359a": {
+      "importer": "gltf-scene",
+      "uuid": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@7359a",
+      "displayName": "",
+      "id": "7359a",
+      "name": "out.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "db://assets/armoured_maiden_3d_preview_for_gmod/textures/sword_M_cube_baseColor.png"
+      },
+      {
+        "uri": "db://assets/armoured_maiden_3d_preview_for_gmod/textures/hair_M_baseColor.png"
+      },
+      {
+        "uri": "db://assets/armoured_maiden_3d_preview_for_gmod/textures/pistol_M_cube_baseColor.png"
+      },
+      {
+        "uri": "db://assets/armoured_maiden_3d_preview_for_gmod/textures/body_M_baseColor.png"
+      },
+      {
+        "uri": "db://assets/armoured_maiden_3d_preview_for_gmod/textures/equipment_M_baseColor.png"
+      },
+      {
+        "uri": "db://assets/armoured_maiden_3d_preview_for_gmod/textures/face_M_baseColor.png"
+      }
+    ],
+    "redirect": "e168ff69-8a1b-41f0-af8d-1abfdaf10303@7359a",
+    "assetFinder": {
+      "meshes": [
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@057cb",
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@82371",
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@d114a",
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@0ae4f",
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@28dc9",
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@3585a",
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@230b5"
+      ],
+      "skeletons": [
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@438fe"
+      ],
+      "textures": [
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@3effa",
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@221a5",
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@0089c",
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@9b633",
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@9b782",
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@50743"
+      ],
+      "materials": [
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@69e3a",
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@59875",
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@caf7e",
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@f63ea",
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@f3c97",
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@d4dc5"
+      ],
+      "scenes": [
+        "e168ff69-8a1b-41f0-af8d-1abfdaf10303@7359a"
+      ]
+    }
+  }
+}

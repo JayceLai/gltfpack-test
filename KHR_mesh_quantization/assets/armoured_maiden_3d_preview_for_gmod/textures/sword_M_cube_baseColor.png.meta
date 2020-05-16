@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "03cbe417-670f-4c2a-88b1-81dae1901438",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "03cbe417-670f-4c2a-88b1-81dae1901438@6c48a",
+      "displayName": "sword_M_cube_baseColor",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "03cbe417-670f-4c2a-88b1-81dae1901438"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "03cbe417-670f-4c2a-88b1-81dae1901438@6c48a"
+  }
+}

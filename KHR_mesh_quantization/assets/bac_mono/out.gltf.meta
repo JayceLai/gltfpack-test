@@ -1,0 +1,483 @@
+{
+  "ver": "1.3.19",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3",
+  "files": [],
+  "subMetas": {
+    "63036": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@63036",
+      "displayName": "",
+      "id": "63036",
+      "name": "MONO_logo.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 22
+      }
+    },
+    "93318": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@93318",
+      "displayName": "",
+      "id": "93318",
+      "name": "chassis__env_50_1.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "bcca5": {
+      "importer": "gltf-mesh",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@bcca5",
+      "displayName": "",
+      "id": "bcca5",
+      "name": "UnnamedMesh.mesh",
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "5ce7e": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@5ce7e",
+      "displayName": "",
+      "id": "5ce7e",
+      "name": "plastic__env_50_1.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "d682b": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@d682b",
+      "displayName": "",
+      "id": "d682b",
+      "name": "emblem__spec_1.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "efc01": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@efc01",
+      "displayName": "",
+      "id": "efc01",
+      "name": "lights_red.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "bed06": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@bed06",
+      "displayName": "",
+      "id": "bed06",
+      "name": "body.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "c6621": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@c6621",
+      "displayName": "",
+      "id": "c6621",
+      "name": "vehiclelights__s1.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "f3710": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@f3710",
+      "displayName": "",
+      "id": "f3710",
+      "name": "light__spec_1.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "1e9ed": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@1e9ed",
+      "displayName": "",
+      "id": "1e9ed",
+      "name": "chassis__spec_1.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      }
+    },
+    "aedd7": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@aedd7",
+      "displayName": "",
+      "id": "aedd7",
+      "name": "Default_Material1.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      }
+    },
+    "9d3b0": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@9d3b0",
+      "displayName": "",
+      "id": "9d3b0",
+      "name": "suspension_red.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 9
+      }
+    },
+    "8b462": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@8b462",
+      "displayName": "",
+      "id": "8b462",
+      "name": "misc__spec_1.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 10
+      }
+    },
+    "7c678": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@7c678",
+      "displayName": "",
+      "id": "7c678",
+      "name": "seatlogo__spec_1.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 11
+      }
+    },
+    "5f433": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@5f433",
+      "displayName": "",
+      "id": "5f433",
+      "name": "steering__spec_1.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 12
+      }
+    },
+    "21f8f": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@21f8f",
+      "displayName": "",
+      "id": "21f8f",
+      "name": "vehiclelights3.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 13
+      }
+    },
+    "f6309": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@f6309",
+      "displayName": "",
+      "id": "f6309",
+      "name": "vehiclelights4.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 14
+      }
+    },
+    "b9453": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@b9453",
+      "displayName": "",
+      "id": "b9453",
+      "name": "vehiclelights2.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 15
+      }
+    },
+    "cc010": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@cc010",
+      "displayName": "",
+      "id": "cc010",
+      "name": "mirror.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 16
+      }
+    },
+    "c6adf": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@c6adf",
+      "displayName": "",
+      "id": "c6adf",
+      "name": "brakedisk__spec_1.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 17
+      }
+    },
+    "5b726": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@5b726",
+      "displayName": "",
+      "id": "5b726",
+      "name": "inner_rim1.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 18
+      }
+    },
+    "6c727": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@6c727",
+      "displayName": "",
+      "id": "6c727",
+      "name": "rim1.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 19
+      }
+    },
+    "f381f": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@f381f",
+      "displayName": "",
+      "id": "f381f",
+      "name": "tire1.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 20
+      }
+    },
+    "cd9d2": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@cd9d2",
+      "displayName": "",
+      "id": "cd9d2",
+      "name": "chrome_rim1.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 21
+      }
+    },
+    "0bb65": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@0bb65",
+      "displayName": "",
+      "id": "0bb65",
+      "name": "LightGray.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 23
+      }
+    },
+    "13bb5": {
+      "importer": "gltf-material",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@13bb5",
+      "displayName": "",
+      "id": "13bb5",
+      "name": "vehiclelights1.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 24
+      }
+    },
+    "7359a": {
+      "importer": "gltf-scene",
+      "uuid": "5db31367-abab-4fbc-a593-4a7bac96cab3@7359a",
+      "displayName": "",
+      "id": "7359a",
+      "name": "out.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "5db31367-abab-4fbc-a593-4a7bac96cab3@7359a",
+    "assetFinder": {
+      "meshes": [
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@bcca5"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@5ce7e",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@d682b",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@93318",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@efc01",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@bed06",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@c6621",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@f3710",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@1e9ed",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@aedd7",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@9d3b0",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@8b462",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@7c678",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@5f433",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@21f8f",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@f6309",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@b9453",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@cc010",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@c6adf",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@5b726",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@6c727",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@f381f",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@cd9d2",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@63036",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@0bb65",
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@13bb5"
+      ],
+      "scenes": [
+        "5db31367-abab-4fbc-a593-4a7bac96cab3@7359a"
+      ]
+    }
+  }
+}

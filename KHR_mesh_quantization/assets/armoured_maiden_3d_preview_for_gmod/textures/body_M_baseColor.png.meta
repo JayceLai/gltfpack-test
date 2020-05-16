@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "f2b6af70-5efc-4b5f-af73-f2387d20c7bf",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "f2b6af70-5efc-4b5f-af73-f2387d20c7bf@6c48a",
+      "displayName": "body_M_baseColor",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f2b6af70-5efc-4b5f-af73-f2387d20c7bf"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "f2b6af70-5efc-4b5f-af73-f2387d20c7bf@6c48a"
+  }
+}
