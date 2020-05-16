@@ -2,7 +2,7 @@
   "ver": "1.0.17",
   "importer": "image",
   "imported": true,
-  "uuid": "03cbe417-670f-4c2a-88b1-81dae1901438",
+  "uuid": "6cf43e1d-6e85-4808-bfbd-c344547c5510",
   "files": [
     ".png",
     ".json"
@@ -10,7 +10,7 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "03cbe417-670f-4c2a-88b1-81dae1901438@6c48a",
+      "uuid": "6cf43e1d-6e85-4808-bfbd-c344547c5510@6c48a",
       "displayName": "sword_M_cube_baseColor",
       "id": "6c48a",
       "name": "texture",
@@ -29,12 +29,12 @@
         "premultiplyAlpha": false,
         "anisotropy": 1,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "03cbe417-670f-4c2a-88b1-81dae1901438"
+        "imageUuidOrDatabaseUri": "6cf43e1d-6e85-4808-bfbd-c344547c5510"
       }
     }
   },
   "userData": {
     "type": "texture",
-    "redirect": "03cbe417-670f-4c2a-88b1-81dae1901438@6c48a"
+    "redirect": "6cf43e1d-6e85-4808-bfbd-c344547c5510@6c48a"
   }
 }

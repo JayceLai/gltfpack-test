@@ -2,7 +2,7 @@
   "ver": "1.0.17",
   "importer": "image",
   "imported": true,
-  "uuid": "1b975f9a-5e84-47ba-9e36-5855ae7ea3c1",
+  "uuid": "e947b5a7-6593-4b57-ad25-303ce7704849",
   "files": [
     ".png",
     ".json"
@@ -10,7 +10,7 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "1b975f9a-5e84-47ba-9e36-5855ae7ea3c1@6c48a",
+      "uuid": "e947b5a7-6593-4b57-ad25-303ce7704849@6c48a",
       "displayName": "equipment_M_baseColor",
       "id": "6c48a",
       "name": "texture",
@@ -29,12 +29,12 @@
         "premultiplyAlpha": false,
         "anisotropy": 1,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "1b975f9a-5e84-47ba-9e36-5855ae7ea3c1"
+        "imageUuidOrDatabaseUri": "e947b5a7-6593-4b57-ad25-303ce7704849"
       }
     }
   },
   "userData": {
     "type": "texture",
-    "redirect": "1b975f9a-5e84-47ba-9e36-5855ae7ea3c1@6c48a"
+    "redirect": "e947b5a7-6593-4b57-ad25-303ce7704849@6c48a"
   }
 }

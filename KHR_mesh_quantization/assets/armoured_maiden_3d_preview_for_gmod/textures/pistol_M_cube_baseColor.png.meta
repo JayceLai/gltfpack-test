@@ -2,7 +2,7 @@
   "ver": "1.0.17",
   "importer": "image",
   "imported": true,
-  "uuid": "b93e98e8-d743-47a1-81b1-ad1adf67e114",
+  "uuid": "d5faab79-b220-4e4e-98ea-e247d703a621",
   "files": [
     ".png",
     ".json"
@@ -10,7 +10,7 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "b93e98e8-d743-47a1-81b1-ad1adf67e114@6c48a",
+      "uuid": "d5faab79-b220-4e4e-98ea-e247d703a621@6c48a",
       "displayName": "pistol_M_cube_baseColor",
       "id": "6c48a",
       "name": "texture",
@@ -29,12 +29,12 @@
         "premultiplyAlpha": false,
         "anisotropy": 1,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "b93e98e8-d743-47a1-81b1-ad1adf67e114"
+        "imageUuidOrDatabaseUri": "d5faab79-b220-4e4e-98ea-e247d703a621"
       }
     }
   },
   "userData": {
     "type": "texture",
-    "redirect": "b93e98e8-d743-47a1-81b1-ad1adf67e114@6c48a"
+    "redirect": "d5faab79-b220-4e4e-98ea-e247d703a621@6c48a"
   }
 }
