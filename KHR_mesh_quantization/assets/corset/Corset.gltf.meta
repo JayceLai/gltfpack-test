@@ -1,0 +1,245 @@
+{
+  "ver": "1.3.19",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "2d5b500c-00cc-418a-b39b-934e89ed9a9f",
+  "files": [],
+  "subMetas": {
+    "50743": {
+      "importer": "texture",
+      "uuid": "2d5b500c-00cc-418a-b39b-934e89ed9a9f@50743",
+      "displayName": "",
+      "id": "50743",
+      "name": "UnnamedTexture-5.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/corset/Corset_specularGlossiness.png"
+      }
+    },
+    "d9c96": {
+      "importer": "gltf-mesh",
+      "uuid": "2d5b500c-00cc-418a-b39b-934e89ed9a9f@d9c96",
+      "displayName": "",
+      "id": "d9c96",
+      "name": "pCube49.mesh",
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "2d5b500c-00cc-418a-b39b-934e89ed9a9f@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/corset/Corset_baseColor.png"
+      }
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "2d5b500c-00cc-418a-b39b-934e89ed9a9f@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/corset/Corset_roughnessMetallic.png"
+      }
+    },
+    "0089c": {
+      "importer": "texture",
+      "uuid": "2d5b500c-00cc-418a-b39b-934e89ed9a9f@0089c",
+      "displayName": "",
+      "id": "0089c",
+      "name": "UnnamedTexture-2.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/corset/Corset_normal.png"
+      }
+    },
+    "9b633": {
+      "importer": "texture",
+      "uuid": "2d5b500c-00cc-418a-b39b-934e89ed9a9f@9b633",
+      "displayName": "",
+      "id": "9b633",
+      "name": "UnnamedTexture-3.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/corset/Corset_occlusion.png"
+      }
+    },
+    "9b782": {
+      "importer": "texture",
+      "uuid": "2d5b500c-00cc-418a-b39b-934e89ed9a9f@9b782",
+      "displayName": "",
+      "id": "9b782",
+      "name": "UnnamedTexture-4.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/corset/Corset_diffuse.png"
+      }
+    },
+    "ddb15": {
+      "importer": "gltf-material",
+      "uuid": "2d5b500c-00cc-418a-b39b-934e89ed9a9f@ddb15",
+      "displayName": "",
+      "id": "ddb15",
+      "name": "Corset_O.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "796a3": {
+      "importer": "gltf-scene",
+      "uuid": "2d5b500c-00cc-418a-b39b-934e89ed9a9f@796a3",
+      "displayName": "",
+      "id": "796a3",
+      "name": "Corset.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "db://assets/corset/Corset_baseColor.png"
+      },
+      {
+        "uri": "db://assets/corset/Corset_roughnessMetallic.png"
+      },
+      {
+        "uri": "db://assets/corset/Corset_normal.png"
+      },
+      {
+        "uri": "db://assets/corset/Corset_occlusion.png"
+      },
+      {
+        "uri": "db://assets/corset/Corset_diffuse.png"
+      },
+      {
+        "uri": "db://assets/corset/Corset_specularGlossiness.png"
+      }
+    ],
+    "redirect": "2d5b500c-00cc-418a-b39b-934e89ed9a9f@796a3",
+    "assetFinder": {
+      "meshes": [
+        "2d5b500c-00cc-418a-b39b-934e89ed9a9f@d9c96"
+      ],
+      "skeletons": [],
+      "textures": [
+        "2d5b500c-00cc-418a-b39b-934e89ed9a9f@3effa",
+        "2d5b500c-00cc-418a-b39b-934e89ed9a9f@221a5",
+        "2d5b500c-00cc-418a-b39b-934e89ed9a9f@0089c",
+        "2d5b500c-00cc-418a-b39b-934e89ed9a9f@9b633",
+        "2d5b500c-00cc-418a-b39b-934e89ed9a9f@9b782",
+        "2d5b500c-00cc-418a-b39b-934e89ed9a9f@50743"
+      ],
+      "materials": [
+        "2d5b500c-00cc-418a-b39b-934e89ed9a9f@ddb15"
+      ],
+      "scenes": [
+        "2d5b500c-00cc-418a-b39b-934e89ed9a9f@796a3"
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "8a11e56a-2319-4fed-b48b-5cbb116fd7dc",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "8a11e56a-2319-4fed-b48b-5cbb116fd7dc@6c48a",
+      "displayName": "cocosfinish_01_baseColor",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8a11e56a-2319-4fed-b48b-5cbb116fd7dc"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "8a11e56a-2319-4fed-b48b-5cbb116fd7dc@6c48a"
+  }
+}

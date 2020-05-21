@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.19",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "53612255-51d9-4455-a02a-78cfc507ac44",
+  "files": [],
+  "subMetas": {
+    "b452c": {
+      "importer": "gltf-animation",
+      "uuid": "53612255-51d9-4455-a02a-78cfc507ac44@b452c",
+      "displayName": "",
+      "id": "b452c",
+      "name": "cocos_anim_shoot.animation",
+      "ver": "1.0.13",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.3000000715255737
+        },
+        "events": []
+      }
+    },
+    "7d7b5": {
+      "importer": "gltf-scene",
+      "uuid": "53612255-51d9-4455-a02a-78cfc507ac44@7d7b5",
+      "displayName": "",
+      "id": "7d7b5",
+      "name": "cocos_anim_shoot.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "cocos_anim_shoot",
+        "duration": 1.3000000715255737,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "cocos_anim_shoot",
+            "from": 0,
+            "to": 1.3000000715255737,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "53612255-51d9-4455-a02a-78cfc507ac44@7d7b5",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "53612255-51d9-4455-a02a-78cfc507ac44@7d7b5"
+      ]
+    }
+  }
+}

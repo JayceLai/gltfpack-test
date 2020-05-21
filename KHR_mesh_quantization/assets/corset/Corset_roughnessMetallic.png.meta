@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "89429c13-fed4-4298-9761-a0c86709d2af",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "89429c13-fed4-4298-9761-a0c86709d2af@6c48a",
+      "displayName": "Corset_roughnessMetallic",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "89429c13-fed4-4298-9761-a0c86709d2af"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "89429c13-fed4-4298-9761-a0c86709d2af@6c48a"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "cf9f8c0d-6537-4472-a54c-366f91375b9c",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "cf9f8c0d-6537-4472-a54c-366f91375b9c@6c48a",
+      "displayName": "hurt",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cf9f8c0d-6537-4472-a54c-366f91375b9c"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "cf9f8c0d-6537-4472-a54c-366f91375b9c@6c48a"
+  }
+}
