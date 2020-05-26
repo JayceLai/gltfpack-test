@@ -52,6 +52,7 @@
       "scenes": [
         "6b75934a-9a95-4819-b173-54f9e5201434@4a33b"
       ]
-    }
+    },
+    "dumpMaterials": false
   }
 }
