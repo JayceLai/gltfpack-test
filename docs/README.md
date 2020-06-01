@@ -60,7 +60,7 @@
 | **详细输出**    | 输出详细的数据信息                    |
 
 注：由于暂不支持`KHR_mesh_quantization`扩展，在编辑器中使用的`gltf`模型目前必须开启**禁用量子化**。
-注：其它选项目前建议使用默认值，如果有更高的要求可以根据需求修改，相关介绍参考[这里](https://github.com/zeux/meshoptimizer)。
+注：其它选项目前建议使用默认值，如果有更高的要求可以根据需求修改，相关细节请参考[这里](https://github.com/zeux/meshoptimizer/tree/master/gltf)。
 
 ### 最佳实践
 
