@@ -32,6 +32,9 @@
 
 ### 如何使用
 
+依赖工具：[node.js](https://nodejs.org/en/)
+可选的依赖工具：[basisu](https://github.com/BinomialLLC/basis_universal/releases)
+
 首先打开相应的面板：
 
 ![mesh-optimizer](mesh-optimizer.png)
