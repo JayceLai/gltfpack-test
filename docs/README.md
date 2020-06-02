@@ -20,8 +20,8 @@
 
 得益于强大的插件体系，使用方法特别的简单：
 
-- 下载插件包[bundle](plugin_mesh-optimizer.zip)，熟悉`git`工作流的朋友也可以拉取这个[远端](https://github.com/JayceLai/plugin_mesh-optimizer)。
-- 解压到以下目录中：
+- 下载插件包[bundle](plugin_mesh-optimizer.zip)，并解压。熟悉`git`工作流的朋友也可以拉取这个[远端](https://github.com/JayceLai/plugin_mesh-optimizer)。
+- 执行'git clone plugin_mesh-optimizer.bundle'，将克隆出的文件夹移动到以下目录中：
   1. \${user}/.CocosEditor3D/packages
   2. \${project}/packages
 - 最后检验，打开编辑器，若在菜单项中看见`Packages/Mesh Optimizer`项，则说明插件安装成功。
@@ -51,15 +51,18 @@
 
 部分额外展开的非必填项：
 
-| 部分非必填项    | 解释                                  |
-| --------------- | ------------------------------------- |
-| **压缩级别**    | None 无压缩;Normal 一般;Higher 高程度 |
-| **达到 R 比例** | 简化比率，范围`[0, 1]`，越小简化越大  |
-| **强力简化**    | 不管质量如何，简化到目标比率          |
-| **禁用量子化**  | 禁止使用[KHR_mesh_quantization](https://github.com/KhronosGroup/glTF/tree/master/extensions/2.0/Khronos/KHR_mesh_quantization) 扩展  |
-| **详细输出**    | 输出详细的数据信息                    |
+| 部分非必填项     | 解释                                  |
+| ---------------- | ------------------------------------- |
+| **压缩级别**     | None 无压缩;Normal 一般;Higher 高程度 |
+| **达到 R 比例**  | 简化比率，范围`[0, 1]`，越小简化越大  |
+| **强力简化**     | 不管质量如何，简化到目标比率          |
+| **保持节点变换** | 保持节点树的命名和变换信息            |
+| **禁用量子化**   | 禁止使用[KHR_mesh_quantization](https://github.com/KhronosGroup/glTF/tree/master/extensions/2.0/Khronos/KHR_mesh_quantization) 扩展   |
+| **详细输出**     | 输出详细的数据信息                    |
 
-注：由于暂不支持`KHR_mesh_quantization`扩展，在编辑器中使用的`gltf`模型目前必须开启**禁用量子化**。
+注：纹理项中除了**纹理进入到主缓冲**和**纹理质量**之外的选项依赖[basisu](https://github.com/BinomialLLC/basis_universal/releases)，需要先安装和设置好环境变量，其中**纹理到KTX2**依赖[KHR_image_ktx2](https://github.com/KhronosGroup/glTF/pull/1751)扩展，目前暂不支持。
+注：压缩级别功能依赖[MESHOPT_compression](https://github.com/KhronosGroup/glTF/pull/1702)扩展，目前暂不支持，只可以使用`None`。
+注：由于暂不支持[KHR_mesh_quantization](https://github.com/KhronosGroup/glTF/tree/master/extensions/2.0/Khronos/KHR_mesh_quantization)扩展，在编辑器中使用的`gltf`模型目前必须开启**禁用量子化**。
 注：其它选项目前建议使用默认值，如果有更高的要求可以根据需求修改，相关细节请参考[这里](https://github.com/zeux/meshoptimizer/tree/master/gltf)。
 
 ### 最佳实践
