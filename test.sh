@@ -19,10 +19,10 @@ output=$3;
 fi
 
 
-echo "npx gltfpack -i $fold/$file -o $fold/$output -noq -v";
+echo "npx gltfpack -i $fold/$file -o $fold/$output -noq -v -km -kn";
 
 # npx gltfpack -i $fold/$file -o $fold/$output -noq -cf -v
-npx gltfpack -i $fold/$file -o $fold/$output -noq -v
+npx gltfpack -i $fold/$file -o $fold/$output -noq -v -km -kn
 
 echo "__FINISH__";
 read;

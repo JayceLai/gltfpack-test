@@ -1,4 +1,4 @@
-gltfpack 0.14
+gltfpack 0.15
 Usage: gltfpack [options] -i input -o output
 
 Basics:
@@ -7,11 +7,11 @@ Basics:
         -c: produce compressed gltf/glb files (-cc for higher compression ratio)
 
 Textures:
-        -te: embed all textures into main buffer (.bin or .glb)
-        -tb: convert all textures to Basis Universal format (with basisu executable); will be removed in the future
-        -tc: convert all textures to KTX2 with BasisU supercompression (using basisu executable)
-        -tq N: set texture encoding quality (default: 50; N should be between 1 and 100
+        -tc: convert all textures to KTX2 with BasisU supercompression (using basisu/toktx executable)
         -tu: use UASTC when encoding textures (much higher quality and much larger size)
+        -tq N: set texture encoding quality (default: 8; N should be between 1 and 10
+        -ts R: scale texture dimensions by the ratio R (default: 1; R should be between 0 and 1)
+        -tp: resize textures to nearest power of 2 to conform to WebGL1 restrictions
 
 Simplification:
         -si R: simplify meshes to achieve the ratio R (default: 1; R should be between 0 and 1)
@@ -19,8 +19,9 @@ Simplification:
 
 Vertices:
         -vp N: use N-bit quantization for positions (default: 14; N should be between 1 and 16)
-        -vt N: use N-bit quantization for texture corodinates (default: 12; N should be between 1 and 16)
+        -vt N: use N-bit quantization for texture coordinates (default: 12; N should be between 1 and 16)
         -vn N: use N-bit quantization for normals and tangents (default: 8; N should be between 1 and 16)
+        -vc N: use N-bit quantization for colors (default: 8; N should be between 1 and 16)
 
 Animations:
         -at N: use N-bit quantization for translations (default: 16; N should be between 1 and 24)
@@ -31,10 +32,14 @@ Animations:
 
 Scene:
         -kn: keep named nodes and meshes attached to named nodes so that named nodes can be transformed externally
+        -km: keep named materials and disable named material merging
         -ke: keep extras data
+        -mm: merge instances of the same mesh together when possible
+        -mi: use EXT_mesh_gpu_instancing when serializing multiple mesh instances
 
 Miscellaneous:
         -cf: produce compressed gltf/glb files with fallback for loaders that don't support compression
         -noq: disable quantization; produces much larger glTF files with no extensions
         -v: verbose output (print version when used without other options)
+        -r file: output a JSON report to file
         -h: display this help and exit
